@@ -1,5 +1,5 @@
 
-### Hi there!👋 I'm Davi Reis. I like to program since I was 13 years old and today I work on personal projects using mainly JavaScript and Python. 
+### Hi there!👋 I'm Davi Reis. I like to program since I was 13 years old and today I work on personal projects using mainly Lua, C++, C#, MySQL, JavaScript and Python. 
 
 ## Let's Connect!
 
