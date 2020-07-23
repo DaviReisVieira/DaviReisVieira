@@ -11,8 +11,8 @@ Hi there!👋 I'm Davi Reis. I like to program since I was 13 years old and toda
 
 -Front-end(CSS in JS, ReactJS, Frameworks CSS/JS)
 
--Utilities( Git, Github, Figma, Insomnia) 
+-Utilities( Git, Github, Figma, Insomnia, Fusion 360) 
 
--Other languages I use: Python, Lua, C++
+-Languages I use: Python, Lua, C++.
 
 "Be a pilot of Your dreams, be a complete owner of your head. Never allow them to put words where there are no ideas, and ideas where you never want to have a word said."
