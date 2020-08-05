@@ -20,3 +20,5 @@ I like to program since I was 13 years old and today I work on personal projects
 I love to learn new technologies and know different ways of thinking.
 
 "Be a pilot of Your dreams, be a complete owner of your head. Never allow them to put words where there are no ideas, and ideas where you never want to have a word said."
+
+<img align="left" alt="DaviReisVieira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaviReisVieira&show_icons=true&hide_border=true" />
