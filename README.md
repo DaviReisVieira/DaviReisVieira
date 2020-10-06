@@ -9,16 +9,18 @@
 
 I like to program since I was 13 years old and today I work on personal projects using: 
 
--Back-end(SQLite, MySQL, PHP, NodeJS, MongoDB e Deploy)
+-Back-end (SQLite, MySQL, PHP, NodeJS, MongoDB e Deploy)
 
--Front-end(CSS in JS, ReactJS, Frameworks CSS/JS)
+-Front-end (CSS in JS, ReactJS, Frameworks CSS/JS)
 
--Utilities( Git, Github, Figma, Insomnia, Fusion 360) 
+-Utilities (Git, Github, Figma, Insomnia, Fusion 360) 
 
--Languages I use: Python, Lua, C++.
+-Languages I use: Python, Lua, C, C++, JavaScript.
 
 I love to learn new technologies and know different ways of thinking.
 
 "Be a pilot of Your dreams, be a complete owner of your head. Never allow them to put words where there are no ideas, and ideas where you never want to have a word said."
 
 <img align="left" alt="DaviReisVieira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaviReisVieira&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviReisVieira&layout=compact)](https://github.com/DaviReisVieira)
