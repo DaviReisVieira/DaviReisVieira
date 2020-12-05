@@ -9,13 +9,13 @@
 
 I like to program since I was 13 years old and today I work on personal projects using: 
 
--Back-end (NodeJS, MongoDB, SQLite, MySQL, PHP,  e Deploy)
+-Back-end: NodeJS, MongoDB, SQLite, MySQL, PHP, e Deploy
 
--Front-end (CSS, JS, ReactJS, Frameworks CSS/JS)
+-Front-end: CSS, JS, ReactJS, Frameworks CSS/JS
 
--Utilities (Git, Github, Figma, Marvel App, Insomnia, Fusion 360) 
+-Utilities: Git, Github, Figma, Marvel App, Insomnia, Fusion 360
 
--Languages I use: Python, Lua, C, C++, JavaScript.
+-Languages: Python, Lua, C, C++, JavaScript.
 
 I love to learn new technologies and know different ways of thinking.
 
