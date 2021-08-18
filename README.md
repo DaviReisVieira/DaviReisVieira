@@ -1,5 +1,8 @@
 # Hi there! I'm Davi 👋
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DaviReisVieira)
+![Snake animation](https://github.com/DaviReisVieira/DaviReisVieira/blob/output/github-contribution-grid-snake.svg)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2366d1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davireisvieira/)](https://www.linkedin.com/in/davireisvieira/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-2366d1?style=flat-square&labelColor=2366d1&logo=facebook&logoColor=white&link=https://www.facebook.com/davireisv)](https://www.facebook.com/davireisv)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-2366d1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vieira08davi38@gmail.com)](mailto:vieira08davi38@gmail.com)
@@ -43,6 +46,8 @@
   ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects)
 
 <br/>
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=DaviReisVieira&repo=DaviReisVieira&countColor=%7d3bbc&label=Total%20de%20Visitantes)
 
 <h3> ⚙️ GitHub Analytics </h3>
   
