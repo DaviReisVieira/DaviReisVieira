@@ -1,8 +1,5 @@
 # Hi there! I'm Davi 👋
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=DaviReisVieira)
-![Snake animation](https://github.com/DaviReisVieira/DaviReisVieira/blob/output/github-contribution-grid-snake.svg)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2366d1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davireisvieira/)](https://www.linkedin.com/in/davireisvieira/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-2366d1?style=flat-square&labelColor=2366d1&logo=facebook&logoColor=white&link=https://www.facebook.com/davireisv)](https://www.facebook.com/davireisv)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-2366d1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vieira08davi38@gmail.com)](mailto:vieira08davi38@gmail.com)
@@ -54,7 +51,10 @@
 <a href="https://github.com/DaviReisVieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviReisVieira&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviReisVieira&theme=react&layout=compact" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviReisVieira&theme=react" style"max-width: 100%;" />
 </a>
+
+![Snake animation](https://github.com/DaviReisVieira/DaviReisVieira/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
