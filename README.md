@@ -17,7 +17,7 @@
 
 <h3> 🤝🏻 &nbsp;My Website </h3>
 
-- 🔗 &nbsp; <a href="https://davirvs.com.br">davirvs.com.br</a>
+- 🔗 &nbsp; <a href="https://davireis.com.br">davireis.com.br</a>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
