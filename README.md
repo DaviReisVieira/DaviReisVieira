@@ -10,8 +10,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love to learn new technologies and know different ways of thinking..
-- 🎓 &nbsp; I study Computer Engineering at <a href="https://www.insper.edu.br/">Insper</a>.
-- 💼 &nbsp; I'm currently working with a lot of things.
+- 🎓 &nbsp; Computer Engineering - <a href="https://www.insper.edu.br/">Insper</a>.
 
 "Be a pilot of Your dreams, be a complete owner of your head. Never allow them to put words where there are no ideas, and ideas where you never want to have a word said."
 
