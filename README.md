@@ -1,26 +1,87 @@
-# Hi there! I'm Davi 👋
+# 🧭 **About Me**
+
+> "Be a pilot of your dreams. Own your head. Never let others put words where there are no ideas — or ideas where you never wanted a word."
+
+I'm **Davi Reis**, a developer, CTO, and someone who believes technology is only worth building when it creates a **real future**.
+
+I started coding young and never let go of the idea of building intelligent systems that remove friction from people's lives. I went through paths of hacking, product, automation, AI, infrastructure, and UX until I realized something simple: **career is one of the most broken systems we have** — and no one was fixing it properly.
+
+Today I'm **Co-Founder & CTO at Refer** (https://tryrefer.com), where we're flipping the entire recruiting model upside down. In our world, talent doesn't “apply” — they're **represented**. And the navigation between jobs, companies, and opportunities is done by a **career agent (Lia)** who understands preferences, opens doors, and orchestrates intros with decision makers.
+
+It's not just matching.  
+It's a new protocol for professional mobility.
+
+# 📬 **Contact**
+
+Always open to talk about **AI, systems, product, UX, automation, and possible futures**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2366d1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davireisvieira/)](https://www.linkedin.com/in/davireisvieira/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-2366d1?style=flat-square&labelColor=2366d1&logo=facebook&logoColor=white&link=https://www.facebook.com/davireisv)](https://www.facebook.com/davireisv)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-2366d1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vieira08davi38@gmail.com)](mailto:vieira08davi38@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-2366d1?style=flat-square&logo=github&logoColor=white&link=https://github.com/DaviReisVieira)](https://github.com/DaviReisVieira)
 
-## I'm a Computer Engineering Student 💻 in Brazil 🌎
+# ⚙️ **What I Build**
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+Day to day, I design and ship systems that combine:
 
-- 🤔 &nbsp; I love to learn new technologies and know different ways of thinking..
-- 🎓 &nbsp; Computer Engineering - <a href="https://www.insper.edu.br/">Insper</a>.
+- **AI & Recommendation Systems**
+- **Scalable Infrastructure (AWS / Docker / Terraform)**
+- **Experience-Oriented Products (Next.js + UX)**
+- **Orchestration & Intelligent Automation**
+- **Data-Driven Processes** for decision making
 
-"Be a pilot of Your dreams, be a complete owner of your head. Never allow them to put words where there are no ideas, and ideas where you never want to have a word said."
+I enjoy environments where technical, product, and business decisions intertwine — and where builders can test, measure, iterate, and ship. That's what we do at Refer every day: on the candidate side, the company side, and through our own AI agent.
 
-<h3> 🤝🏻 &nbsp;My Website </h3>
+# 🎯 **What Drives Me**
 
-- 🔗 &nbsp; <a href="https://davireis.com.br">davireis.com.br</a>
+I believe that:
 
+- AI should **enhance human decisions**, not replace them.
+- Great experiences are **inevitably simple**.
+- Purpose doesn't need to be mystical — it needs to be **useful**.
+- Products are **world theses translated into code**.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+The big dream at Refer is that, a few years from now, people will look back and say:
 
+> “Wow, remember when we had to manually apply for jobs?”
+
+And laugh.  
+Just like we laugh about calling a taxi on the phone.
+
+# 🌍 **Links**
+
+- **Refer** → https://tryrefer.com  
+- **Personal site** → https://davireis.com.br  
+
+# 🧠 **Stack & Technologies**
+
+Some of the components I've been using to build this future:
+
+**Back-end**  
+- Python (Flask, FastAPI)  
+- Node.js  
+- Pydantic  
+- NLP / LLMs / embeddings  
+
+**Front-end**  
+- Next.js  
+- React  
+- TypeScript  
+- Tailwind
+
+**Infra & DevOps**  
+- AWS (ECS, Lambda, RDS, SQS, Step Functions, CloudFront, etc.)  
+- Docker  
+- Terraform  
+- IaC & automations
+
+**Data & AI**  
+- Recommendation systems  
+- Preference modeling  
+- Orchestration with feedback loops  
+- Fine-tuning & prompt engineering
+
+**Flags**
 - 🌐 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -84,24 +145,3 @@
   ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digital-ocean)
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
   ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-333333?style=flat&logo=github)
-
-<br/>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=DaviReisVieira&icon=#221ba8&color=%7d3bbc&label=Total%20Visitors)](https://visitcount.itsvg.in)
-
-<h3> ⚙️ GitHub Analytics </h3>
-  
-<a href="https://github.com/DaviReisVieira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviReisVieira&theme=react&show_icons=true" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviReisVieira&theme=react&layout=compact" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviReisVieira&theme=react" style"max-width: 100%;" />
-</a>
-
-![Snake animation](https://github.com/DaviReisVieira/DaviReisVieira/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/davireis) 
-
-
-
