@@ -2,11 +2,11 @@
 
 > "Be a pilot of your dreams. Own your head. Never let others put words where there are no ideas — or ideas where you never wanted a word."
 
-I'm **Davi Reis**, a developer, CTO, and someone who believes technology is only worth building when it creates a **real future**.
+I'm **Davi Reis**, a developer, founder, and someone who believes technology is only worth building when it creates a **real future**.
 
 I started coding young and never let go of the idea of building intelligent systems that remove friction from people's lives. I went through paths of hacking, product, automation, AI, infrastructure, and UX until I realized something simple: **career is one of the most broken systems we have** — and no one was fixing it properly.
 
-Today I'm **Co-Founder & CTO at Refer** (https://tryrefer.com), where we're flipping the entire recruiting model upside down. In our world, talent doesn't “apply” — they're **represented**. And the navigation between jobs, companies, and opportunities is done by a **career agent (Lia)** who understands preferences, opens doors, and orchestrates intros with decision makers.
+Today I'm **Founding Team at Refer** (https://tryrefer.com), where we're flipping the entire recruiting model upside down. In our world, talent doesn't “apply” — they're **represented**. And the navigation between jobs, companies, and opportunities is done by a **career agent (Lia)** who understands preferences, opens doors, and orchestrates intros with decision makers.
 
 It's not just matching.  
 It's a new protocol for professional mobility.
