@@ -6,7 +6,7 @@ I'm **Davi Reis**, a developer, founder, and someone who believes technology is 
 
 I started coding young and never let go of the idea of building intelligent systems that remove friction from people's lives. I went through paths of hacking, product, automation, AI, infrastructure, and UX until I realized something simple: **career is one of the most broken systems we have** — and no one was fixing it properly.
 
-Today I'm **Founding Team at Refer** (https://tryrefer.com), where we're flipping the entire recruiting model upside down. In our world, talent doesn't “apply” — they're **represented**. And the navigation between jobs, companies, and opportunities is done by a **career agent (Lia)** who understands preferences, opens doors, and orchestrates intros with decision makers.
+Today I'm **building Refer** (https://tryrefer.com), where we're flipping the entire recruiting model upside down. In our world, talent doesn't “apply” — they're **represented**. And the navigation between jobs, companies, and opportunities is done by a **career agent (Lia)** who understands preferences, opens doors, and orchestrates intros with decision makers.
 
 It's not just matching.  
 It's a new protocol for professional mobility.
@@ -51,7 +51,7 @@ Just like we laugh about calling a taxi on the phone.
 # 🌍 **Links**
 
 - **Refer** → https://tryrefer.com  
-- **Personal site** → https://davireis.com.br  
+- **Personal site** → https://davireis.com  
 
 # 🧠 **Stack & Technologies**
 
