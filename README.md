@@ -37,6 +37,14 @@ Happy to talk about **AI, systems, product, UX and automation**.
 - **Personal site** → https://davireis.com
 - **Writing** → https://davireis.com/blog
 
+# ✍️ **Latest Writing**
+
+<!-- LATEST-WRITING:START -->
+- [I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands](https://davireis.com/blog/stackport-open-source-aws-resource-browser) · May 5, 2026
+
+<sub>Updated Oct 13, 2026 · [all posts](https://davireis.com/blog)</sub>
+<!-- LATEST-WRITING:END -->
+
 # 🧠 **Stack & Technologies**
 
 **Back-end**
