@@ -40,9 +40,10 @@ Happy to talk about **AI, systems, product, UX and automation**.
 # ✍️ **Latest Writing**
 
 <!-- LATEST-WRITING:START -->
+- [How Random Is Random? A Playable Tour of the Mersenne Twister](https://davireis.com/blog/how-random-is-random) · Oct 17, 2026
 - [I Built an Open-Source AWS Resource Browser Because I Was Tired of Running CLI Commands](https://davireis.com/blog/stackport-open-source-aws-resource-browser) · May 5, 2026
 
-<sub>Updated Oct 15, 2026 · [all posts](https://davireis.com/blog)</sub>
+<sub>Updated Oct 16, 2026 · [all posts](https://davireis.com/blog)</sub>
 <!-- LATEST-WRITING:END -->
 
 # 🧠 **Stack & Technologies**
